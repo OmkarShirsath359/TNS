@@ -1,0 +1,20 @@
+package day;
+
+public class o1 {
+	
+	String k="almost";
+	String h = "done";
+	
+	
+	public static void main(String[] args) {
+		o1 g= new o1();
+		
+		System.out.print(g.k);        // print for output on same line 
+		System.out.print(" ");             
+		System.out.println(g.h);		  //println for output on next line 
+		System.out.println(g.k +" " +g.h);
+		
+	}
+	
+		
+		 }
